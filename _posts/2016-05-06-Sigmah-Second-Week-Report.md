@@ -9,9 +9,9 @@ This week is utilised to improve Mock-up.Also, I tried different methods to inte
 
 ### Work Done
 
-* Completely understood the rendering of Calendar.
-* Tried different methods to implement integration.
-* Mock-up improved further.
+1. Completely understood the rendering of Calendar.
+2. Tried different methods to implement integration.
+3. Mock-up improved further.
 
 ### Mock Up
 
