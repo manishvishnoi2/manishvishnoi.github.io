@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Sigmah' GSoc Reports
+title: Sigmah's GSoc Reports
 ---
 	<h1>{{ page.title }}</h1>
 	<ul class="sigmah">
 
-	  {% for post in site.sigmah %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% for sigmah in site.sigmah %}
+	    <li><span>{{ sigmah.date | date_to_string }}</span> » <a href="{{ sigmah.url }}" title="{{ sigmah.title }}">{{ sigmah.title }}</a></li>
 	  {% endfor %}
 	</ul>
