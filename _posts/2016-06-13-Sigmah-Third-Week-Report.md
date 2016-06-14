@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Third Week 6th May - 10th June"
-date: 2016-05-30
+date: 2016-06-13
 ---
 ## Summary
 Finally decided to go with the change in mapping of Project Calendar Page request from enumMap to HashMap.This is done because a enumMap issending the just one projectId for every calendarType but we need to send all related project Ids.
