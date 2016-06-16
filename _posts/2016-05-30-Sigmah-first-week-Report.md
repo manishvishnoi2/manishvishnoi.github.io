@@ -20,4 +20,4 @@ Currently,Sigmah user cannot view activities and reminders associated with linke
 Mockup was prepared in Pencil - An open Source tool.Pencil is quite effective but i was learning it and for times sake prepared a very primitive mockup using only basic tools.Later on i learned to use screenshots and external plugins.
 Preparing mockup gives the idea of how you are going to execute your idea.We discussed few ways in the meeting and finally decided that ProjectCode with every CalendarType is the corrct way.In meetings we decided that we have to show every calendarType component of every related funded and Funding projects while in the calendar widget every entry will be shown with the ProjectCode.A mockup is accordingly prepared.
 
-You can find mockup design ![here](https://groups.google.com/group/sigmah-dev/attach/28fb6bdbcc25d/integrated.png?part=0.1&authuser=0&view=1).
+Mockup design ![here](https://groups.google.com/group/sigmah-dev/attach/28fb6bdbcc25d/integrated.png?part=0.1&authuser=0&view=1).
