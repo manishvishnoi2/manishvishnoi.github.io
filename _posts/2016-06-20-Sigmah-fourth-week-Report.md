@@ -4,10 +4,11 @@ title: "Fourth Week 13rd May - 18th May"
 date: 2016-06-20
 ---
 
-##Summary
+## Summary
+
 Fourth week was majorly spent in changing orgUnit calendar.Mapping of calendar was already changed last week.So work was to integrate child orgUnits calendars to the parent orgunit calendar.
 
-##Work Done
+## Work Done
 
 1 Finally improved the mockup to its best by using example of test project.
 
@@ -17,7 +18,7 @@ Fourth week was majorly spent in changing orgUnit calendar.Mapping of calendar w
 
 4 Also looked at different ways to implement project code into the calendar widget.
 
-##Problems Faced and Future Work
+## Problems Faced and Future Work
 
 The main problem faced in orgUnit calendar integration was that children project were stored in a Set.So i have to use a iterator which generally has no GetId function defined.So i used the next function with a for loop which has hasNext(boolean) function as a condition.Which worked like a charm.
 
