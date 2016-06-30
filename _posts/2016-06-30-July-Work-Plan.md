@@ -18,8 +18,8 @@ Also, a new panel should be there to enable/disable calendar types for all proje
 
 1 **4th July - 8th July** -  CheckBox will be moved to right Side.WHile color boxes will be moved to left near the Caledar type names.Also , For funded and funding projects different(blurred or whitened) colors will be provided.
 
-2 ** 11th July - 15th July ** - A different fold for every project in left panel with one checkbox that can Enable/Disable all calendar types of that project.
+2 **11th July - 15th July** - A different fold for every project in left panel with one checkbox that can Enable/Disable all calendar types of that project.
 
-3 ** 18th July - 22nd July ** - Different blocks for main , funding and funded projects with checkboxes that can toggle their calendar types.
+3 **18th July - 22nd July** - Different blocks for main , funding and funded projects with checkboxes that can toggle their calendar types.
 
-4 ** 25th July - 29th July ** - A panel will be provided that can toggle calendar types for all projects.
+4 **25th July - 29th July** - A panel will be provided that can toggle calendar types for all projects.
