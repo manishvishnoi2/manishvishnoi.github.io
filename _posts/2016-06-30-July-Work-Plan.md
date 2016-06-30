@@ -16,7 +16,7 @@ Also, a new panel should be there to enable/disable calendar types for all proje
 
 ## Time Line
 
-1 **4th July - 8th July** -  CheckBox will be moved to right side.While color boxes will be moved to left near the caledar type names.Also, For funded and funding projects different(blurred or whitened) colors will be provided.
+1 **4th July - 8th July** -  CheckBox will be moved to right side.While color boxes will be moved to left near the calendar type names.Also, For funded and funding projects different(blurred or whitened) colors will be provided.
 
 2 **11th July - 15th July** - A different fold for every project in left panel with one checkbox that can enable/disable all calendar types of that project.
 
