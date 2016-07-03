@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Third Week 6th May - 10th June"
+title: "Third Week 6th June - 10th June"
 date: 2016-06-13
 ---
 ## Summary
