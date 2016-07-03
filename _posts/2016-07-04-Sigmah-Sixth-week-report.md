@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sixth Week 27th June - 1st July"
+title: "Sixth Week 20th May - 24th May"
 date: 2016-07-04
 ---
 
