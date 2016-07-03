@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sixth Week 27th June - 1st July"
-date: 2016-05-30
+date: 2016-07-04
 ---
 
 ## Summary
