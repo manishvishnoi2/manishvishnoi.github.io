@@ -13,7 +13,6 @@ The changes are further divided into smaller parts.
 
 1 You can see the following work [here](https://github.com/sigmah-dev/sigmah/pull/27).
 
-2  
 
 ## Work in Parts
 
