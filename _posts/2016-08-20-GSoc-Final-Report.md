@@ -56,7 +56,7 @@ The changes are further divided into smaller parts.
 
 5 Little bit tweaking.[Check Commit here](https://github.com/sigmah-dev/sigmah/pull/27/commits/5afa76dcc9c22babe304924cc26763cef64ca198)
 
-   Screeshot ![Css color edited](https://goo.gl/photos/dgN2Xqp9XFcCMa2m7).
+   Screeshot ![Css color edited](https://15382278326112394293.googlegroups.com/attach/bc2224791813e/Screenshot%20(25).png?part=0.2&view=1&vt=ANaJVrFjAe5OqQBp_eGIRYg_g-wqwren3T91tHqcH2zZXrVMKwdBM_iYC_NuCKWsAMr-SMoTa96eHkm4pRzdO45kXOCMihuyZGyEUYwsBzVJkByHK68yjA0).
 
 ## Other Work done
 
