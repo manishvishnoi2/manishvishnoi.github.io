@@ -34,7 +34,7 @@ The changes are further divided into smaller parts.
 
     b. changed the setStyle and result variable to suit according to orgunit as well as ProjectUnit.
 
-  Screeshot ![Integrated Organisational Calendar]https://15382278326112394293.googlegroups.com/attach/bc2224791813e/Screenshot%20(27).png?part=0.4&view=1&vt=ANaJVrGJfkiAzNJVi4a4qFfrlByxhGJRuuNnmarSBesF5wuqAn77xKwzRHGF3MK3ONuOPPxCk3x4SRJSXLOtA67xNGGV2EItIJmD9yy-1ZnBvc5PMJp_jZc)
+  Screeshot ![Integrated Organisational Calendar](https://15382278326112394293.googlegroups.com/attach/bc2224791813e/Screenshot%20(27).png?part=0.4&view=1&vt=ANaJVrGJfkiAzNJVi4a4qFfrlByxhGJRuuNnmarSBesF5wuqAn77xKwzRHGF3MK3ONuOPPxCk3x4SRJSXLOtA67xNGGV2EItIJmD9yy-1ZnBvc5PMJp_jZc)
 
 3 Project code was alligned with every calendar event so that its easy to identify which event is of which project.[Check Commit here](https://github.com/sigmah-dev/sigmah/pull/27/commits/e251439ce30be3226f7539e98b18f6f906b15326)
     
@@ -56,7 +56,7 @@ The changes are further divided into smaller parts.
 
 5 Little bit tweaking.[Check Commit here](https://github.com/sigmah-dev/sigmah/pull/27/commits/5afa76dcc9c22babe304924cc26763cef64ca198)
 
-   Screeshot ![Css color edited](https://15382278326112394293.googlegroups.com/attach/bc2224791813e/Screenshot%20(25).png?part=0.2&view=1&vt=ANaJVrGT-0TFSsLcB_w0BkimiG7mKgMR0Ho7CXIRGIXJD_nnadN65utdpcqmheACWrSszXn_UnO5_nNdAuAtPXDc9WytnI6Cu6pYZnYxPJoObf5LO4iHIBc).
+   Screeshot ![Css color edited](https://goo.gl/photos/dgN2Xqp9XFcCMa2m7).
 
 ## Other Work done
 
