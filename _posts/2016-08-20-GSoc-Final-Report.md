@@ -26,7 +26,7 @@ The changes are further divided into smaller parts.
 
     d. Also tweaked orgUnit class according to changed conditions.
 
-     Screeshot ![Integrated Project Calendar](https://goo.gl/photos/jZcpCdYFGCdC1tPj8)
+     Screeshot ![here](https://groups.google.com/group/sigmah-dev/attach/28fb6bdbcc25d/integrated.png?part=0.1&authuser=0&view=1)
 
 2 Organisational calendar was implemented with its other related organisations.[Check Commit here](https://github.com/sigmah-dev/sigmah/pull/27/commits/96f6a43b9e2caf03bb229a78b9652977e0eccb5a)
 
